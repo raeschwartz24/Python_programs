@@ -352,3 +352,5 @@ def main():
             pic = picNew
             i = i+1
     print"Wow, such edit. Go you. Thanks!"
+    
+    main()
