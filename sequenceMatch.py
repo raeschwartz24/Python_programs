@@ -33,3 +33,5 @@ def main():
             
     except:
         print("Sorry! Something went wrong.")
+        
+main()
